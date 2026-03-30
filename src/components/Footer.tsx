@@ -33,7 +33,7 @@ const Footer = () => (
           <p className="font-heading font-semibold text-primary-foreground mb-3 text-sm">Contact</p>
           <ul className="space-y-2 text-sm">
             <li><a href="mailto:support@fatafatloans.in" className="hover:text-primary-foreground transition-colors">support@fatafatloans.in</a></li>
-            <li><a href="tel:+9118001234567" className="hover:text-primary-foreground transition-colors">+91 1800-123-4567</a></li>
+            <li><a href="tel:+919240259585" className="hover:text-primary-foreground transition-colors">+91 9240259585</a></li>
           </ul>
         </div>
       </div>
